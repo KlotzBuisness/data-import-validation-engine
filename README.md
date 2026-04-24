@@ -16,7 +16,7 @@ In many engineering and software workflows, data is often provided in external f
 * Incorrect formatting
 * Inconsistent structures
 
-Manually validating and correcting this data is time-consuming and error-prone.
+Manually validating and correcting this data is time-consuming and error-prone and not profitable.
 
 ---
 
@@ -48,6 +48,7 @@ This application provides an automated pipeline for:
 * File processing (Excel/CSV handling)
 * WPF or WinForms (planned for UI)
 * Optional: Entity Framework / database integration (future extension)
+* ClosedXML NuGet extension
 
 ---
 
