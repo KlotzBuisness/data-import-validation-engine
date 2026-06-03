@@ -2,6 +2,7 @@
 
 ## Overview
 
+Many industries use their workers for implementing data manually into popular automation software.
 This project is a .NET-based tool designed to import structured data (e.g. Excel or CSV files), validate it against predefined rules, and provide feedback for missing or incorrect fields. The validated data can then be processed and exported into a target system or format.
 
 The goal of this project is to simplify and standardize data entry workflows by introducing automated validation and clear user feedback.
